@@ -1,4 +1,4 @@
-public class Keyboard {
+public final class Keyboard {
     private final TypeKeyboard typeKeyboard;
     private final boolean isBacklight;
     private final double weight;

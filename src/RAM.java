@@ -1,4 +1,4 @@
-public class RAM {
+public final class RAM {
     private final TypeRAM typeRAM;
     private final double capacity;
     private final double weight;
